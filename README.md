@@ -6,7 +6,7 @@
 
 ## clone
 ```sh
-git clone 
+git clone https://github.com/hiromu-kon/docker-laravel-nextjs.git
 ```
 
 ## 環境構築
